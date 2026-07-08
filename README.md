@@ -14,7 +14,6 @@ This repository contains SQL projects focused on database management, business a
 - Data Cleaning
 - Data Analysis
 - Business Reporting
-- Database Design
 
 ## Projects
 
