@@ -11,7 +11,6 @@ This repository contains SQL projects focused on database management, business a
 - Window Functions
 - Stored Procedures
 - Views
-- Triggers
 - Data Cleaning
 - Data Analysis
 - Business Reporting
